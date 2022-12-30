@@ -1,5 +1,8 @@
 # HM Round
 
+## Resources
+* https://frontendmastery.com/posts/frontend-system-design-interview-guide/
+
 ## Behaviour Questions
 * What makes you interested in this job?
 * What is the motivating factor for you at work?
