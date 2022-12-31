@@ -3,6 +3,8 @@
 
 - [ ] Resume revision - You must know everything in your resume
 - [ ] Past projects - wwww.movancungoreo.com, www.dessertscorner.com
+- [ ] UI Tech revision
+- [ ] DSA Easy/Medium revision
 
 ## Resources
 * https://frontendmastery.com/posts/frontend-system-design-interview-guide/
