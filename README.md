@@ -71,7 +71,7 @@
 * What is my plan for the next 5 years?
 
 ## Big Billion Days
-* 
+* Massive Flipkart sale event with large volume of sales, biggest sale event of the year
 
 ## What is Ownership
 * It is allowing every employee, at every level to take decisions and be responsible for the outcome of that decision
@@ -95,3 +95,4 @@
 ## Frontend System Design
 * Design Twitter
 * Design Chatbot App
+* Design a parking lot
