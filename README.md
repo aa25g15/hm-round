@@ -193,6 +193,8 @@
 * Delivered Muvan Cung Oreo project within 4 weeks
 * I have steadily managed to progress my career
 * Graduated from QS World rank 78 university with Sir Tim Berners Lee, inventor of the WWW, a professor there, key advancements in fibre optics took place at University of Southampton
+* Scholarship at Southampton
+* Won Hackathon 4 Good - The Hague (ESRI Special Award and won in the category of sustainable horticulture) - We created a web app that used ArcGis to show greenhouse data on a map of Netherlands and provided users with information such as environmental pollution, statistics related to their greenhouse etc.
 
 ## Big Billion Days
 * Massive Flipkart sale event with large volume of sales, biggest sale event of the year
