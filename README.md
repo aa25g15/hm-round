@@ -203,7 +203,7 @@
 * It is always striving for the best possible work, as you are fully responsible for the task at hand
 * Avoids blame-game and increases trust, quality of work and innovation
 
-### Other Important Questions from Online Sources
+## Other Important Questions from Online Sources
 * Why you want to join Flipkart? What makes you interested in this job?
   * Impact - 100s and millions of customers
   * Ownership
