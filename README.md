@@ -181,7 +181,18 @@
    * You can also talk about how you participated in the Hackathon 4 Good - The Hague with TM Systems team, going above and beyond
 
 ## My Success Stories
-
+* I fixed a high priority production owner dashboard crash in HM project in TM Systems
+* I improved the HM web app's interactivity and speed of usage by better handling async operations using non-blocking loaders for the sections carrying out async operations such as GET requests instead of using full screen blocking loader for each async operation as they were doing earlier
+* I managed HM project for nearly 6 months with code reviews, releases, sprint management and planning
+* I created entire new screens in HM project, like the owner and admin dashboard with paginated table, several async GET requests, modals, popups with paginated data on scroll, autocompletes with paginated data on scroll
+* Fixed Regex Catastrophic backtracking issue
+* I managed to shift industry to software from mechanical and learn everything with little to no guidance
+* I delivered NutriCheck on my own in 3 weeks when I did not even know React that well or did not know key packages such as Mobx and Styled Components
+* I made a speedometer component for NutriCheck that no one was able to make and saved the day!
+* I managed to improve website performance of Desserts Corner from poor to excellent with desktop scores hitting 90+, this was a long-standing problem which I managed to solve for the company
+* Delivered Muvan Cung Oreo project within 4 weeks
+* I have steadily managed to progress my career
+* Graduated from QS World rank 78 university with Sir Tim Berners Lee, inventor of the WWW, a professor there, key advancements in fibre optics took place at University of Southampton
 
 ## Big Billion Days
 * Massive Flipkart sale event with large volume of sales, biggest sale event of the year
@@ -194,14 +205,45 @@
 
 ### Other Important Questions from Online Sources
 * Why you want to join Flipkart? What makes you interested in this job?
+  * Impact - 100s and millions of customers
+  * Ownership
+  * Freedom
+  * Excellent product with product-market fit, everyone loves using them
+  * Working with the best
+  * Excellent work environment and employee-centric policies
 * What is the motivating factor for you at work?
+  * Motivation is not a good base to perform at work as it comes and goes
+  * There are days you might feel a little down due to several reasons
+  * I feel discipline is more important
 * What qualities would you look for, if you were recruiting someone for this position?
+  * Integrity
+  * Quick and wise decision making
+  * Learning attitude
+  * Inclusiveness, team work ability
+  * Customer obsession or focus on delivering quality software products which also focuses on technical ability (domain knowledge)
+  * Audacity
 * Do you like to work in a team or on your own?
+  * Depends on the task and whether working in a team would add value to the task at hand
 * Tell us about your best project.
+  * You can talk about NutriCheck
 * Any role model you want to emulate?
+  * Vivek Gautam - LinkedIn - UI Engineer 2 at Flipkart
 * Discussion on current company project
 * How would you ensure that defects are minimized or minimal possible upon release in production?
+  * Follow coding standards
+  * Write unit tests
+  * Do manual testing of feature being developed
+  * Think of edge cases, scalability issues, slow/poor connection scenarios, device compatibility (low end to high end devices, different OS)
+  * Write scalable, DRY code with separation of concerns and OOP principles
+  * Create components for your feature for easier debugging
 * What are the different aspects you would look upon when you join a new job?
+  * Impact
+  * Culture
+  * Working with the best
+  * Reputation - Company's reputation is my reputation
+  * Work to be done - Should align with interest and passion
+  * Growth prospects
+  * Remuneration
 
 ## How to Do a Proper PR Review
 
